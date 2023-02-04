@@ -114,7 +114,7 @@ git merge 分支名
 #创建远程库别名
 
 #将远程库地址加到本地，用名称origin指代远程库
-git remote add origin https://gitee.com/
+git remote add origin https://github.com/
 #查看远程库别名
 git remote -v
 #拉取分支
